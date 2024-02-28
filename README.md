@@ -6,6 +6,12 @@ Makers Academy - Final Project
 
 A mobile phone app to monitor your house plants
 
+## 🌱 **Illustrative Screenshots:**
+<p>&nbsp;</p>
+
+<h1 align="left"><img width="660" alt="Screenshots" 
+src="https://user-images.githubusercontent.com/65411964/106216737-b2be3f80-61cb-11eb-9a0d-72464d2baac0.png"> </h1>
+
 ## User Stories
 
 ### MVP
